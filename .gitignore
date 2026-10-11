@@ -6,6 +6,5 @@ node_modules
 test-ledger
 .yarn
 .surfpool
-.env
-.env.*
 !.env.example
+config.bat
